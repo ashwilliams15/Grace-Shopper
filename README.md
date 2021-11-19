@@ -22,5 +22,6 @@ An e-commerce site that sells plants and pants.
 1. Fork and clone this repo
 2. Create db named grace-shopper
 3. Install the dependencies with "npm install"
-4. Start the build process and the application with "npm run start:dev"
-5. Navigate to [localhost:8080](http://localhost:8080) to see the site in the browser
+4. Seed the database with "npm run seed"
+5. Start the build process and the application with "npm run start:dev"
+6. Navigate to [localhost:8080](http://localhost:8080) to see the site in the browser
